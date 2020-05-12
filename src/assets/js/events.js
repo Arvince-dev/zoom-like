@@ -1,4 +1,4 @@
-import helpers from './helpers.js';
+import helpers from './helpers.js'; 
 
 window.addEventListener('load', ()=>{
     //When the chat icon is clicked
